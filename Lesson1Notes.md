@@ -1,13 +1,13 @@
 
 Elements/Tags:
 
-``<html>``: Defines the root of an HTML document.
-Example: ``<html lang="en">...</html>``
+``<html>``: Defines the root of an HTML document. <br>
+Example: ``<html lang="en">...</html>`` <br>
 
-``<head>:``Contains metadata about the HTML document.
+``<head>:``Contains metadata about the HTML document. <br>
 Example: ``<head>...</head>``
 
-``<title>``: Sets the title of the HTML document.
+``<title>``: Sets the title of the HTML document. <br>
 Example: ``<title>Cat Photo App</title>``
 
 ``<body>``: Contains the visible content of the HTML document.
