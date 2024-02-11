@@ -24,7 +24,7 @@ Example: ``<li>Coffee</li>``
 ``<img>``: Inserts an image into the HTML document. <br>
 Example: ``<img src="coffee.jpg" alt="Coffee">``
 
-----------------------------------------------------------------------------
+<hr>
 
 HTML Attributes: <br>
 
