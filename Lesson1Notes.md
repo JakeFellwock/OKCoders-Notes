@@ -25,6 +25,8 @@ Example: ``<div class="container">...</div>``
 ``<p>``: Defines a paragraph. <br>
 Example: ``<p>This is a paragraph.</p>``
 
+<hr>
+
 Attributes: <br>
 
 src: Specifies the URL of the image to be displayed. <br>
@@ -39,6 +41,8 @@ Example: ``<a href="https://www.example.com">Click here</a>``
 class: Specifies one or more class names for an element. <br>
 Example:`` <div class="container">...</div>``
 
+<hr>
+
 Selectors: <br>
 
 Element Selector: Selects HTML elements based on their tag name. <br>
@@ -46,6 +50,8 @@ Example: img {...}
 
 Class Selector: Selects HTML elements with a specific class attribute. <br>
 Example: .container {...}
+
+<hr>
 
 Properties: <br>
 
@@ -55,6 +61,8 @@ Example: ``<img src="cat.jpg" alt="Cat">``
 alt: Property of the ``<img> ``element that specifies the alternate text for an image. <br>
 Example: ``<img src="cat.jpg" alt="Cat">``
 
+<hr>
+
 Values: <br>
 
 Text Values: Plain text content within HTML elements. <br>
@@ -62,6 +70,8 @@ Example: ``<p>This is a paragraph.</p>``
 
 URL Values: URLs used in attributes like src and href. <br>
 Example: ``<img src="cat.jpg" alt="Cat">``
+
+<hr>
 
 Concepts: <br>
 
