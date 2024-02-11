@@ -34,6 +34,8 @@ Example: ``<img src="coffee.jpg" alt="Coffee">``
 alt: Specifies an alternate text for an image. <br>
 Example: ``<img src="coffee.jpg" alt="Coffee">``
 
+<hr>
+
 Selectors: <br>
 
 Element Selector: Selects HTML elements based on their tag name. <br>
@@ -41,6 +43,8 @@ Example: h1 {...}
 
 Class Selector: Selects HTML elements with a specific class attribute. <br>
 Example: .menu-item {...}
+
+<hr>
 
 CSS Properties: <br>
 
@@ -56,6 +60,8 @@ Example: ul { background-color: #f2f2f2; }
 list-style-type: Specifies the appearance of the list item marker. <br>
 Example: ul { list-style-type: none; }
 
+<hr>
+
 CSS Values: <br>
 
 Color Values: Hexadecimal, RGB, RGBA, color names, etc. <br>
@@ -69,6 +75,8 @@ Example: ul { background-color: #f2f2f2; }
 
 List Style Type Values: none, disc, circle, square, etc. <br>
 Example: ul { list-style-type: none; }
+
+<hr>
 
 Concepts: <br>
 
