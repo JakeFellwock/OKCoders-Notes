@@ -6,11 +6,11 @@ The CSS Box Model describes the layout and spacing of elements on a web page. It
 Represents the actual content area of an element.
 Example: <br>
 
-``.box {`` 
-``    width: 200px;`` 
-``    height: 100px;`` 
-``    background-color: blue;``
-``}``
+.box {
+   width: 200px;
+   height: 100px;
+   background-color: blue;
+}
 
 3. Padding:
 
