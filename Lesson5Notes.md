@@ -1,16 +1,21 @@
 1. CSS Box Model:
 
 The CSS Box Model describes the layout and spacing of elements on a web page. It consists of content, padding, border, and margin.
+
+<hr>
+
 2. Content:
 
 Represents the actual content area of an element.
 Example: <br>
 
-.box {
-   width: 200px;
-   height: 100px;
-   background-color: blue;
-}
+``.box {`` <br>
+``    width: 200px;``  <br>
+``    height: 100px;`` <br>
+``    background-color: blue;`` <br>
+``}`` <br>
+
+<hr>
 
 3. Padding:
 
