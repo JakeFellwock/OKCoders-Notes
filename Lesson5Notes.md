@@ -22,86 +22,101 @@ Example: <br>
 Specifies the space between the content area and the border.
 Example: <br>
 
-``.box { ``
-``    padding: 20px;``
-``}``
+``.box { `` <br>
+``    padding: 20px;`` <br>
+``}`` <br>
+
+<hr>
 
 4. Border:
 
 Surrounds the padding and content areas.
 Example: <br>
 
-``.box {``
-``    border: 2px solid black;``
-``}``
+``.box {`` <br>
+``    border: 2px solid black;`` <br>
+``}`` <br>
 
+<hr>
 
 5. Margin:
 
 Specifies the space outside the border, separating the element from other elements.
 Example: <br>
 
-``.box {``
-``    margin: 10px;``
-``}``
+``.box {`` <br>
+``    margin: 10px;`` <br>
+``}`` <br>
+
+<hr>
 
 6. Positioning:
 
 Allows you to position elements within their containing elements.
 Example: <br>
 
-``.color-block {``
-``    position: absolute;``
-``    top: 0;``
-``    left: 0;``
-``}``
+``.color-block {`` <br>
+``    position: absolute;`` <br>
+``    top: 0;`` <br>
+``    left: 0;`` <br>
+``}`` <br>
+
+<hr>
 
 7. nth-child Selector:
 
 Selects elements based on their position within their parent element.
 Example: <br>
 
-``.color-block:nth-child(odd) {``
-``    top: 0;``
-``}``
+``.color-block:nth-child(odd) {`` <br>
+``    top: 0;`` <br>
+``}`` <br>
+ 
+``.color-block:nth-child(even) {`` <br>
+ ``   top: 50%;`` <br>
+``}`` <br>
 
-``.color-block:nth-child(even) {``
- ``   top: 50%;``
-``}``
+<hr>
 
 8. Width Property:
 
 Specifies the width of an element.
 Example: <br>
 
-``.color-block {``
-``    width: 50%;``
-``}``
+``.color-block {`` <br>
+``    width: 50%;`` <br>
+``}`` <br>
+
+<hr>
 
 9. Height Property:
 
 Specifies the height of an element.
 Example: <br>
 
-``.color-block {``
-``    height: 50%;``
-``}``
+``.color-block {`` <br>
+``    height: 50%;`` <br>
+``}`` <br>
+
+<hr>
 
 10. Background-color Property:
 
 Sets the background color of an element.
 Example: <br>
 
-``.color-block {``
-``    background-color: #ff0000;``
-``}``
+``.color-block {`` <br>
+``    background-color: #ff0000;`` <br>
+``}`` <br>
+
+<hr>
 
 11. HTML Structure:
 
 Uses HTML elements to create color blocks for the Rothko painting.
 Example: <br>
 
-``<div class="color-block" style="background-color: #ff0000;"></div>``
+``<div class="color-block" style="background-color: #ff0000;"></div>`` <br>
 
 
 
