@@ -16,8 +16,8 @@ Example:
 ``    flex-wrap: wrap;``<br>
  ``   justify-content: space-between;``<br>
  ``   align-items: flex-start;``<br>
-``}`
-`
+``}`<br>
+
 
 <hr>
 
@@ -26,11 +26,11 @@ Example:
 The child elements of the flex container that are laid out using flexbox. <br>
 Example:
 
-``Copy code``
-``.gallery-item {``
- ``   flex: 1 1 300px;``
-``    margin-bottom: 20px;``
-``}``
+``Copy code``<br>
+``.gallery-item {``<br>
+ ``   flex: 1 1 300px;``<br>
+``    margin-bottom: 20px;``<br>
+``}``<br>
 
 <hr>
 
@@ -39,9 +39,9 @@ Example:
 A shorthand property for the flex-grow, flex-shrink, and flex-basis properties. <br>
 Example:
 
-``.gallery-item {``
- ``   flex: 1 1 300px;``
-``}``
+``.gallery-item {``<br>
+ ``   flex: 1 1 300px;``<br>
+``}``<br>
 
 <hr>
 
@@ -50,9 +50,9 @@ Example:
 Specifies how much a flex item should grow relative to the other flex items. <br>
 Example:
 
-``.gallery-item {``
-``    flex-grow: 1;``
-``}``
+``.gallery-item {``<br>
+``    flex-grow: 1;``<br>
+``}``<br>
 
 <hr>
 
@@ -61,9 +61,9 @@ Example:
 Specifies how much a flex item should shrink relative to the other flex items. <br>
 Example:
 
-``.gallery-item {``
-``    flex-shrink: 1;``
-``}``
+``.gallery-item {``<br>
+``    flex-shrink: 1;``<br>
+``}``<br>
 
 <hr>
 
@@ -72,9 +72,9 @@ Example:
 Specifies the initial main size of a flex item. <br>
 Example:
 
-``.gallery-item {``
-``    flex-basis: 300px;``
-``}``
+``.gallery-item {``<br>
+``    flex-basis: 300px;``<br>
+``}``<br>
 
 <hr>
 
@@ -83,9 +83,9 @@ Example:
 Specifies the direction in which flex items are laid out in the flex container. <br>
 Example:
 
-``.gallery-container {``
- ``   flex-direction: row;``
-``}``
+``.gallery-container {``<br>
+ ``   flex-direction: row;``<br>
+``}``<br>
 
 <hr>
 
@@ -94,9 +94,9 @@ Example:
 Aligns flex items along the main axis of the flex container. <br>
 Example:
 
-``.gallery-container {``
-``    justify-content: space-between;``
-``}``
+``.gallery-container {``<br>
+``    justify-content: space-between;``<br>
+``}``<br>
 
 <hr>
 
@@ -105,9 +105,9 @@ Example:
 Aligns flex items along the cross axis of the flex container. <br>
 Example:
 
-``.gallery-container {``
-``    align-items: flex-start;``
-``}``
+``.gallery-container {``<br>
+``    align-items: flex-start;``<br>
+``}``<br>
 
 <hr>
 
@@ -116,9 +116,9 @@ Example:
 Allows individual flex items to override the alignment set by the align-items property. <br>
 Example:
 
-``.gallery-item:nth-child(3) {``
-``    align-self: flex-end;``
-``}``
+``.gallery-item:nth-child(3) {``<br>
+``    align-self: flex-end;``<br>
+``}``<br>
 
 <hr>
 
@@ -127,9 +127,9 @@ Example:
 Specifies whether flex items are forced onto a single line or can wrap onto multiple lines. <br>
 Example:
 
-``.gallery-container {``
-``    flex-wrap: wrap;``
-``}``
+``.gallery-container {``<br>
+``    flex-wrap: wrap;``<br>
+``}``<br>
 
 <hr>
 
@@ -138,11 +138,11 @@ Example:
 Uses HTML elements to create a photo gallery layout. <br>
 Example:
 
-``<div class="gallery-container">``
-``    <div class="gallery-item"></div>``
-``    <div class="gallery-item"></div>``
-``    <!-- More gallery items -->``
-``</div>``
+``<div class="gallery-container">``<br>
+``    <div class="gallery-item"></div>``<br>
+``    <div class="gallery-item"></div>``<br>
+``    <!-- More gallery items -->``<br>
+``</div>``<br>
 
 By understanding and applying these concepts, you can create flexible and responsive layouts using CSS Flexbox, such as the photo gallery demonstrated in this module. Experimenting with different properties and values will help you customize your layouts according to your design requirements.
 
