@@ -10,12 +10,12 @@ Flexbox is a layout model that allows you to design more flexible and efficient 
 The container element that holds the flex items and defines the main and cross axes. <br>
 Example: 
 
-``.gallery-container {``
-``    display: flex;``
-``    flex-direction: row;``
-``    flex-wrap: wrap;``
- ``   justify-content: space-between;``
- ``   align-items: flex-start;``
+``.gallery-container {`` <br>
+``    display: flex;``<br>
+``    flex-direction: row;``<br>
+``    flex-wrap: wrap;``<br>
+ ``   justify-content: space-between;``<br>
+ ``   align-items: flex-start;``<br>
 ``}`
 `
 
